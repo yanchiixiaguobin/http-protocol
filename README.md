@@ -5,7 +5,7 @@ http3标准尚未出来，但是quic协议已出来很长时间。http3简单来
 1. 安装golang1.14  
  [下载地址](https://gomirrors.org/)，选择合适的平台进行下载，并添加go二进制文件路径到PATH环境变量中  
 
-2. 安装依赖
+2. 安装依赖  
 项目使用quic-go包，需要下载该依赖，下载方式如下：
 ```shell
 go get -u github.com/lucas-clemente/quic-go
