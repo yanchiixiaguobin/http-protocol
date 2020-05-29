@@ -19,7 +19,7 @@ source .bashrc
 重新执行go get操作
 ```
 
-3. 编译
+3. 编译  
 服务端和客户端均在各自的项目主目录下，使用以下简单命令编译
 ```shell
 go build
